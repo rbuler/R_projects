@@ -1,0 +1,9 @@
+# Ignore R project files
+*.RData
+*.Rhistory
+
+# Ignore RStudio project settings and temporary files
+.Rproj.user/
+
+# Ignore viewer cache files
+viewer-cache/
